@@ -12,4 +12,4 @@
 - [Flutter UI Components](https://github.com/Clueless-Community/flutter-ui-components)  ```New```
 
 ---
-#### [Checkout the Point distribution](https://clueless-resources.super.site/hacktoberfest/how-points-are-calculated)
+
