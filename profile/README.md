@@ -10,6 +10,6 @@
 - [Prega.io](https://github.com/Clueless-Community/Prega)
 - [Dataset](https://github.com/Clueless-Community/Datasets)
 - [Flutter UI Components](https://github.com/Clueless-Community/flutter-ui-components)  ```New```
-
+- [FinTech API](https://github.com/Clueless-Community/fintech-api)  ```New```
 ---
 
