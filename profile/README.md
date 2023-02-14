@@ -22,5 +22,6 @@ We happily welcome meaningful changes made by the contributors. As time passes, 
 | [College API](https://github.com/Clueless-Community/collegeAPI) |  `Python` `FastAPI` | An API to provide data of Indian Colleges from all the categories listed in NIRF through different endpoints. |
 | [Prega.io](https://github.com/Clueless-Community/Prega) |  `Dart` `Flutter` `Firebase` | A medical documents handling app made in flutter for pregnant women. |
 | [Flutter UI Components](https://github.com/Clueless-Community/flutter-ui-components) |  `Dart` `Flutter` | A collection of flutter UI components that can easily be integrated with your project. |
+| [Scrape Up](https://github.com/Clueless-Community/scrape-up) |  `Python` | A web-scraping-based python package that enables you to scrape data from various platforms like GitHub, Twitter, Instagram, or any useful website. |
 | [FinTech API](https://github.com/Clueless-Community/fintech-api) |  `Python` `FastAPI` | An API that helps you to deal with your financial calculations. |
 | [Dataset](https://github.com/Clueless-Community/Datasets) |  _ | A collection of widely used and relevant datasets that help others get all the useful datasets in one place. |
