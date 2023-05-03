@@ -4,7 +4,7 @@ Clueless is a student-driven development community built with the vision to make
 
 Not just another community, here each contribution of yours can make a great impact as it will be leveraged by other developers around the world.😉
 
-Check out ClueLess [official website](https://www.clueless.tech/) for more details.
+Check out ClueLess [official website](https://www.clueless.live/) for more details.
 ## Clueless on GitHub 
 We actively participate in open-source programs throughout the year, we've gathered an extensive list of projects from different tech stacks and domains that active ClueLess members and contributors are working on.
 
